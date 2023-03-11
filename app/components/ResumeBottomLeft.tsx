@@ -22,7 +22,8 @@ const ResumeBottomLeft = () => {
         < >
             {/* contact info */}
             <div className='text-white pb-5' >
-                <p className='text-3xl pb-2 pt-5 md:pt-0  border-b-2 text-right w-[70%]'>
+            <p className='text-3xl py-5 md:py-2  border-b-2 text-center md:text-right w-full md:w-[70%]'>
+
                     Contact Info
                 </p>
 
@@ -45,7 +46,8 @@ const ResumeBottomLeft = () => {
 
             {/* skills */}
             <div className='text-white pb-5' >
-                <p className='text-3xl pb-2 pt-5 md:pt-0  border-b-2 text-right w-[60%]'>
+            <p className='text-3xl py-5 md:py-2  border-b-2 text-center md:text-right w-full md:w-[70%]'>
+
                     Skills
                 </p>
 

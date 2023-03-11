@@ -48,7 +48,7 @@ const ResumeBottomRight = () => {
       
       {/* Eductaion */}
       <div className='pb-5' >
-        <p className='text-3xl pb-2 pt-5 md:pt-0  border-b-2 border-black font-bold  w-[50%]'>
+      <p className='text-3xl pb-2 pt-5 md:pt-0  border-b-2 border-black font-bold text-center md:text-left md:w-[50%]'>
           Education
         </p>
 
