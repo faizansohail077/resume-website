@@ -1,5 +1,5 @@
 import React from 'react'
-import MyPng from './My.png'
+import MyPng from './My.png' 
 const ResumeTop = () => {
     return (
         <div className="flex flex-wrap">
