@@ -6,7 +6,7 @@ const About = () => {
           
             <div className='w-[100%]  md:w-[30%]  ' >
                 <div className='text-white h-full flex items-center' >
-                    <p className='text-3xl py-5  border-b-2 text-center md:text-right w-full md:w-[70%]'>
+                    <p className='animate-pulse text-3xl py-5  border-b-2 text-center md:text-right w-full md:w-[70%]'>
                         About Me
                     </p>
                 </div>
