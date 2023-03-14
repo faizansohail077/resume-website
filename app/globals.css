@@ -5,3 +5,7 @@
 p {
   margin: 0px !important;
 }
+
+.group:hover>div:nth-child(1) {
+  @apply bg-white text-black duration-1000;
+}
